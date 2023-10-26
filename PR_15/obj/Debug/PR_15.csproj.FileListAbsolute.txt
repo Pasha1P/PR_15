@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\PR_15\PR_15\bin\Debug\PR_15.exe.config
+C:\Users\User\source\repos\PR_15\PR_15\bin\Debug\PR_15.exe
+C:\Users\User\source\repos\PR_15\PR_15\bin\Debug\PR_15.pdb
+C:\Users\User\source\repos\PR_15\PR_15\obj\Debug\PR_15.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PR_15\PR_15\obj\Debug\PR_15.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PR_15\PR_15\obj\Debug\PR_15.exe
+C:\Users\User\source\repos\PR_15\PR_15\obj\Debug\PR_15.pdb
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_15--main\PR_15\bin\Debug\PR_15.exe.config
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_15--main\PR_15\bin\Debug\PR_15.exe
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_15--main\PR_15\bin\Debug\PR_15.pdb
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_15--main\PR_15\obj\Debug\PR_15.csproj.AssemblyReference.cache
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_15--main\PR_15\obj\Debug\PR_15.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_15--main\PR_15\obj\Debug\PR_15.csproj.CoreCompileInputs.cache
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_15--main\PR_15\obj\Debug\PR_15.exe
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_15--main\PR_15\obj\Debug\PR_15.pdb
